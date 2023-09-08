@@ -1,16 +1,14 @@
-#!/bin/bash
 #include <stdio.h>
 /**
- * main - Prints "Programming is like building a multilingual puzzle"
+ * main - Prints Programming is like building a multilingual puzzle
  * and a new line
- * Return : this returns 0
+ * Return: this returns 0
  */
 
 int main(void)
 {
-	char();
 
 	puts("Programming is like building a multilingual puzzle\n");
 
-	return (0)
+	return (0);
 }
